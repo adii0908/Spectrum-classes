@@ -7,7 +7,7 @@
 </head>
 <body bgcolor=ffcocb>
 
-  <h2 align=center> Spectrum classes </h2>
+  
 
   <table border=4 align=center bgcolor=87ceeb text=ff0088>
     <CAPTION>TIME TABLE </CAPTION>
