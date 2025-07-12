@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-  <title>SPECTRUM CLASSES  </title>
+  <title> </title>
   
  
 </head>
@@ -69,12 +69,11 @@
    <li> You can ask your doubts after class any time ..
    <li><u><b> You are taught Maths and English by Avinash chaturvedi , 
    Science by Praveen chaturvedi,
-   Hindi by ruby dubey
+   Hindi by Ruby dubey
     
-   </ul>
+   
    <marquee bgcolor=green> Made by @Aditya chaturvedi ....</marquee>
    
    
 
-</body>
-</html>
+
